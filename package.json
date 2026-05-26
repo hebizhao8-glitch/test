@@ -1,0 +1,13 @@
+{
+  "name": "multi-ai-api-bridge",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "ask": "node src/ask.js",
+    "check": "node src/check-config.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
